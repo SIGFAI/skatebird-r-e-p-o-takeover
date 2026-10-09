@@ -1,0 +1,1 @@
+Install BepInEx 5 (x64) in your SkateBIRD folder, then copy the release folder's SigfMix files into BepInEx/plugins and start the game. Kick the loot into the green zone and bonk the gnomes.

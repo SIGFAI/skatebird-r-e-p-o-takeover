@@ -1,0 +1,1 @@
+All assets generated for this mod with fal (nano-banana-2 images, z-image tiling texture, ElevenLabs sound effects): robot face, painting, gold texture, smash/cash/giggle sounds. No third-party assets.

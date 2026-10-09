@@ -1,0 +1,6 @@
+Moments the clip must show:
+1. [x] Title R.E.P.O. TAKEOVER with golden valuables, a green EXTRACTION POINT and the robot drone beside the bird.
+2. [x] The board kicks a valuable toward the green zone, cash popup "+$" and the HAUL counter rises.
+3. [x] A kickflip near valuables gives a TRICK BONUS popup (host trick feeds the mod).
+4. [x] The board smashes a robot Gnome: BONK, sparks, bounty cash.
+Weak: moment 4 (gnome smash) not clearly seen in screenshots; popups are brief.
